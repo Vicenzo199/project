@@ -1,0 +1,29 @@
+.fa-bars-staggered{
+    margin-left: 1280px;
+    font-size: 40px;
+    position: relative;
+    bottom: 100px;
+    }
+.fa-house{
+   margin-left: 80px;
+}
+div{
+    font-size: 80px;
+    color: white;
+}
+
+main{
+    text-align: center;
+    line-height: 2px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    margin-top: 150px;
+    color: white;
+}
+p{
+    
+    letter-spacing: 15px;
+}
+body{
+    background-color: black;
+}
